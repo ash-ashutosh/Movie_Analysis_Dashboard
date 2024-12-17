@@ -17,7 +17,8 @@ In this project, I created an interactive Power BI dashboard to analyze and visu
 
 ### 3. Dynamic Buttons and Bookmarks
 - Implemented buttons and bookmarks for seamless navigation across pages.
-- Created a Landing Page with navigation options (Control Panel, Reset Button and Close Button) for improved user experience and storytelling <a href="https://github.com/ash-ashutosh/Vehicle_Insurance_Dashboard/blob/main/1.landing%20page.jpg">view landing page to see various button</a> 
+- Created a Landing Page with navigation options (Control Panel, Reset Button and Close Button) for improved user experience and storytelling <a href="https://github.com/ash-ashutosh/Movie_Analysis_Dashboard/blob/main/Screen%20Shots/Control%20Panel%20Using%20Book%20Mark%20and%20Button.jpg">View Control Panel</a>
+- Made toolkit if you hover on any movie it will show you details about it <a href="https://github.com/ash-ashutosh/Movie_Analysis_Dashboard/blob/main/Screen%20Shots/Summary%20Toolkit.jpg">View On Hover Tookkit</a> 
 
 ### 4. Filtering and Slicing
 - Incorporated dynamic slicers and filters to enable users to slice and dice data by attributes such as:
@@ -26,7 +27,7 @@ In this project, I created an interactive Power BI dashboard to analyze and visu
      - Director
      - IMDB Rating
      - Actor and Writer
-- Users can drill down and slice data by various attributes like they can see through drill through which director have made what movie and avarage IMDB rating with average length of movie.
+- Users can drill down and slice data by various attributes like they can see through drill through which director have made what movie and avarage IMDB rating with average length of movie. <a href="https://github.com/ash-ashutosh/Movie_Analysis_Dashboard/blob/main/Screen%20Shots/Director%20Drill%20Through.jpg">View Drill Through Option</a> 
 
 ### 5. Key Metrics
 - Highlighted the following key performance indicators (KPIs):
@@ -61,7 +62,21 @@ In this project, I created an interactive Power BI dashboard to analyze and visu
 - Power BI Service for report sharing and collaboration.
 
 # Screenshots  
-- <a href="https://github.com/ash-ashutosh/Vehicle_Insurance_Dashboard/blob/main/Vehicle%20Insurance.pbix">Download Power-BI File</a>
+- <a href="https://github.com/ash-ashutosh/Movie_Analysis_Dashboard/blob/main/Movies.pbix">Download Power-BI File</a>
+
+![Landing Page ](https://github.com/user-attachments/assets/bade5e20-a3d5-4291-abc6-58e93db26534)
+![Data Model](https://github.com/user-attachments/assets/612bf241-4218-4283-9993-95494ea70006)
+![Summary Toolkit](https://github.com/user-attachments/assets/e5e29c2b-49dd-4d22-8db6-70716bccdaaa)
+![Genre](https://github.com/user-attachments/assets/ab0cba73-7a02-4902-ac07-8caa1f0bbf38)
+![Director](https://github.com/user-attachments/assets/e418eaa1-51fa-4955-bbc0-b2ba4d741042)
+![Drill Page](https://github.com/user-attachments/assets/a8fdc3ad-a516-4719-91ae-85a2df96cb20)
+
+
+
+
+
+
+
 
 
 
